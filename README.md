@@ -1,2 +1,3 @@
-# hello-world
-Sam's first repository
+# hello-world repository
+
+C++ is an amazing language.
